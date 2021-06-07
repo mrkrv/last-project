@@ -1,0 +1,54 @@
+.bg-header {
+    background-color: $primaries1;
+}
+.top-header {
+    height: 100px;
+    align-items: center;
+    .logo-th {
+        margin-right: 130px;
+    }
+    ul {
+        list-style-type: none;
+        justify-content: space-between;
+        align-items: center;
+        text-transform: uppercase;
+        a {
+            height: 34.49px;
+            color: white;
+            text-decoration: none;
+            font-size: 14px;
+        }
+    }
+    a.btn2s {
+        margin-right: 14px;
+        margin-left: 24px;
+    }
+    a.btn1s {
+        margin-right: 24px;
+    }
+}
+
+// НАСТРОЙКА КНОПОК BOOTSTRAP 
+.btn-secondary {
+    background-color: $primaries1;
+    border-color: $primaries1;
+}
+.btn-secondary:hover {
+    background-color: $primaries1;
+    border-color: $primaries1;
+}
+.btn-secondary.focus, .btn-secondary:focus {
+    background-color: $primaries1;
+    border-color: $primaries1
+}
+.btn-secondary:not(:disabled):not(.disabled).active, .btn-secondary:not(:disabled):not(.disabled):active, .show>.btn-secondary.dropdown-toggle {
+    background-color: $primaries1;
+    border-color: $primaries1;
+}
+.dropdown-menu {
+    background-color: $p1-d1;
+}
+.dropdown-item:hover {
+    background-color: $p1-d1;
+}
+

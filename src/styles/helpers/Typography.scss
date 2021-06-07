@@ -1,0 +1,102 @@
+.Header00 {
+    font-family: 'PR';
+    font-size: 16px;
+    line-height: 1.2;
+    color: $primaries1;
+    font-weight: normal;
+}
+.Header00b {
+    font-family: 'PR';
+    font-size: 16px;
+    line-height: 1.2;
+    color: $p1-l1;
+    font-weight: normal;
+    color: #fff;
+}
+.Header_1 {
+    font-family: 'PB';
+    font-size: 47px;
+    color: $p4-d3;
+    line-height: 1.2;
+}
+.Header_1b {
+    font-family: 'PB';
+    font-size: 47px;
+    color: $p1-l1;
+    line-height: 1.2;
+}
+.Header_2 {
+    font-family: 'PM';
+    font-size: 33px;
+    color: $p4-d2;
+}
+.Header_2b {
+    font-family: 'PM';
+    font-size: 33px;
+    color: white;
+}
+.Header_3 {
+    font-family: 'PM';
+    font-size: 27pt;
+    color: $p4-d3;
+}
+.Header_4 {
+    font-family: 'PM';
+    font-size: 22pt;
+    color: $p4-d3;
+}
+.Header_5 {
+    font-family: 'PM';
+    font-size: 17pt;
+    color: $p4-d3;
+}
+.Header_6 {
+    font-family: 'PM';
+    font-size: 18px;
+    color: $p4-d3;
+}
+
+
+  
+
+.Paragraph {
+    font-family: 'PR';
+    font-size: 14px;
+    color: $p4-d1;
+}
+.Paragraphb {
+    font-family: 'PR';
+    font-size: 14px;
+    background-color: $primaries1;
+    color: #fff;
+}
+
+
+.Subtitle {
+    font-family: 'PM';
+    font-size: 20pt;
+    color: $p4-d1;
+}
+.Subtitle_b {
+    font-family: 'PM';
+    font-size: 20pt;
+    color: $p4-d1;
+    background-color: $primaries1;
+    color: #fff;
+}
+
+.List-style {
+    font-family: 'PM';
+    font-size: 15pt;
+    color: $p4-d1;
+    line-height: 1.3;
+    list-style-image: url(../../img/List-style-img.png);
+}
+.Quotation {
+    font-family: 'PR';
+    font-size: 17pt;
+    color: $p1-d1;
+    border-left: solid $p1-d1;
+    background-color: $p1-l3;
+
+}

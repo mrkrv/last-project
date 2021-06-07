@@ -1,0 +1,46 @@
+// Слайд шов(показ коментарів)
+// .slide-show {
+//     width: 570px;
+//     height: 270px;
+//     margin: 0 auto;
+
+//     position: relative;
+//     overflow: hidden;
+// }
+// .sliders {
+//     width: 1710px;
+//     height: 270px;
+//     position: absolute;
+//     top: 0;
+//     left: 0;
+//     animation: sliders 10s infinite alternate;
+// }
+
+// .sliders div {
+//     width: 570px;
+//     height: 270px;
+//     background-color: #fff;
+//     color: #000;
+//     text-align: justify;
+// }
+
+
+// @keyframes sliders {
+//     0% {
+//         left: 0;
+//     }
+//     35%{
+//         left: 0;
+//     }
+//     40% {
+//         left: -570px;
+//     }
+//     75% {
+//         left: -570px;
+//     }
+//     80% {
+//         left: -1140px
+//     }
+//     100% {
+//         left: -1140px;
+//     }
